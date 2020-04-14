@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="DrivingSchoolSTOP.AddPage">
+    <ContentPage.Content>
+        <StackLayout>
+            <TableView Intent="Form">
+                <TableRoot>
+                    <TableSection x:Name="add" Title="Add">
+                        <ViewCell>
+                            <Picker Title="Choose what you want to add" BackgroundColor="Red" TextColor="White" SelectedIndexChanged="OnPickerSelectedIndexChanged">
+                                <Picker.ItemsSource>
+                                    <x:Array Type="{x:Type x:String}">
+                                        <x:String>Driving school</x:String>
+                                        <x:String>Instructor</x:String>
+                                        <x:String>Vehicle</x:String>
+                                        <x:String>Category</x:String>
+                                    </x:Array>
+                                </Picker.ItemsSource>
+                            </Picker>
+                        </ViewCell>
+                    </TableSection>
+                </TableRoot>
+            </TableView>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
+    

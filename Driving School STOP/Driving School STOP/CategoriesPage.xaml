@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="DrivingSchoolSTOP.CategoriesPage"
+             Title="Categories">
+    <ContentPage.ToolbarItems>
+        <ToolbarItem Text="+" Clicked="OnAddClicked" />
+    </ContentPage.ToolbarItems>
+    <ContentPage.Content>
+        <TableView Intent="Data" HasUnevenRows="False">
+            <TableRoot>
+                <TableSection x:Name="categoriesData" Title="Data about categories">
+                    <ViewCell>
+                        <Grid Margin="5,0">
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="*" />
+                                <ColumnDefinition Width="*" />
+                                <ColumnDefinition Width="*" />
+                                <ColumnDefinition Width="*" />
+                            </Grid.ColumnDefinitions>
+                            <Label Text="Name" FontAttributes="Bold" />
+                            <Label Text="Type" FontAttributes="Bold" HorizontalTextAlignment="Center" Grid.Column="1" />
+                            <Label Text="Control" FontAttributes="Bold" HorizontalTextAlignment="Center" Grid.ColumnSpan="2" Grid.Column="2" />
+                        </Grid>
+                    </ViewCell>
+                </TableSection>
+            </TableRoot>
+        </TableView>
+    </ContentPage.Content>
+</ContentPage>

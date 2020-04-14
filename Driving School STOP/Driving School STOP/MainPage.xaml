@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<TabbedPage xmlns="http://xamarin.com/schemas/2014/forms"
+            xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+            xmlns:local="clr-namespace:DrivingSchoolSTOP"
+            x:Class="DrivingSchoolSTOP.MainPage"
+            BarBackgroundColor="Red"
+            BarTextColor="White">
+    <TabbedPage.Resources>
+        <ResourceDictionary>
+            <Style x:Key="buttonStyle" TargetType="{x:Type Button}">
+                <Setter Property="FontSize" Value="Small" />
+                <Setter Property="TextColor" Value="White" />
+            </Style>
+        </ResourceDictionary>
+    </TabbedPage.Resources>
+    <NavigationPage Title="Instructors">
+        <x:Arguments>
+            <local:InstructorsPage />
+        </x:Arguments>
+    </NavigationPage>
+    <NavigationPage Title="Vehicles">
+        <x:Arguments>
+            <local:VehiclesPage />
+        </x:Arguments>    
+    </NavigationPage>
+    <NavigationPage Title="Categories">
+        <x:Arguments>
+            <local:CategoriesPage />
+        </x:Arguments>
+    </NavigationPage>
+
+</TabbedPage>

@@ -1,0 +1,27 @@
+C:\Users\MilosP008\Desktop\Završni rad\Driving School STOP\Driving School STOP\Driving School STOP\bin\Debug\netstandard2.0\Driving School STOP.deps.json
+C:\Users\MilosP008\Desktop\Završni rad\Driving School STOP\Driving School STOP\Driving School STOP\bin\Debug\netstandard2.0\Driving School STOP.dll
+C:\Users\MilosP008\Desktop\Završni rad\Driving School STOP\Driving School STOP\Driving School STOP\bin\Debug\netstandard2.0\Driving School STOP.pdb
+C:\Users\MilosP008\Desktop\Završni rad\Driving School STOP\Driving School STOP\Driving School STOP\obj\Debug\netstandard2.0\Driving School STOP.csprojAssemblyReference.cache
+C:\Users\MilosP008\Desktop\Završni rad\Driving School STOP\Driving School STOP\Driving School STOP\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\MilosP008\Desktop\Završni rad\Driving School STOP\Driving School STOP\Driving School STOP\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\MilosP008\Desktop\Završni rad\Driving School STOP\Driving School STOP\Driving School STOP\obj\Debug\netstandard2.0\Driving School STOP.csproj.CoreCompileInputs.cache
+C:\Users\MilosP008\Desktop\Završni rad\Driving School STOP\Driving School STOP\Driving School STOP\obj\Debug\netstandard2.0\Driving School STOP.AssemblyInfoInputs.cache
+C:\Users\MilosP008\Desktop\Završni rad\Driving School STOP\Driving School STOP\Driving School STOP\obj\Debug\netstandard2.0\Driving School STOP.AssemblyInfo.cs
+C:\Users\MilosP008\Desktop\Završni rad\Driving School STOP\Driving School STOP\Driving School STOP\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\MilosP008\Desktop\Završni rad\Driving School STOP\Driving School STOP\Driving School STOP\obj\Debug\netstandard2.0\Driving School STOP.dll
+C:\Users\MilosP008\Desktop\Završni rad\Driving School STOP\Driving School STOP\Driving School STOP\obj\Debug\netstandard2.0\Driving School STOP.pdb
+C:\Driving School STOP\Driving School STOP\Driving School STOP\bin\Debug\netstandard2.0\Driving School STOP.deps.json
+C:\Driving School STOP\Driving School STOP\Driving School STOP\bin\Debug\netstandard2.0\Driving School STOP.dll
+C:\Driving School STOP\Driving School STOP\Driving School STOP\bin\Debug\netstandard2.0\Driving School STOP.pdb
+C:\Driving School STOP\Driving School STOP\Driving School STOP\obj\Debug\netstandard2.0\Driving School STOP.csprojAssemblyReference.cache
+C:\Driving School STOP\Driving School STOP\Driving School STOP\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Driving School STOP\Driving School STOP\Driving School STOP\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Driving School STOP\Driving School STOP\Driving School STOP\obj\Debug\netstandard2.0\Driving School STOP.csproj.CoreCompileInputs.cache
+C:\Driving School STOP\Driving School STOP\Driving School STOP\obj\Debug\netstandard2.0\Driving School STOP.AssemblyInfoInputs.cache
+C:\Driving School STOP\Driving School STOP\Driving School STOP\obj\Debug\netstandard2.0\Driving School STOP.AssemblyInfo.cs
+C:\Driving School STOP\Driving School STOP\Driving School STOP\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Driving School STOP\Driving School STOP\Driving School STOP\obj\Debug\netstandard2.0\Driving School STOP.dll
+C:\Driving School STOP\Driving School STOP\Driving School STOP\obj\Debug\netstandard2.0\Driving School STOP.pdb
+C:\Driving School STOP\Driving School STOP\Driving School STOP\obj\Debug\netstandard2.0\CategoriesPage.xaml.g.cs
+C:\Driving School STOP\Driving School STOP\Driving School STOP\obj\Debug\netstandard2.0\InstructorsPage.xaml.g.cs
+C:\Driving School STOP\Driving School STOP\Driving School STOP\obj\Debug\netstandard2.0\VehiclesPage.xaml.g.cs
